@@ -1,0 +1,16 @@
+{
+  "name": "calculator-project",
+  "version": "1.0.0",
+  "description": "Simple calculator project with tests",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node calculator.js"
+  },
+  "keywords": ["calculator"],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
